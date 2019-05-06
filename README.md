@@ -21,6 +21,11 @@ Lables
   - `read`
 
 
+References
+----------
+
+- [booklog/sile](https://booklog.jp/users/sile): The list of the books I've read before 2019/05
+
 TODO
 ----
 
