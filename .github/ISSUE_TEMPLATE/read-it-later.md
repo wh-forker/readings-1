@@ -19,6 +19,6 @@ Table of Contents
 --------------------
 
 
-BibText
--------
+BibTeX
+------
 
