@@ -17,6 +17,7 @@ Lables
   - `book`
   - `paper`
   - `webpage`
+  - `video`
 - Action:
   - `read`
 - Evaluation:
