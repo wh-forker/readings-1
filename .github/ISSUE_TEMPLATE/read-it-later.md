@@ -25,7 +25,7 @@ Table of Contents
 BibTeX
 ------
 
-```
+```bibtex
 ```
 
 See Also
