@@ -23,6 +23,11 @@ Lables
 - Evaluation:
   - `recommend`
 
+Milestones
+----------
+
+Set the publication year of the reading material.
+
 References
 ----------
 
